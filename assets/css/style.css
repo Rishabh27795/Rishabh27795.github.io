@@ -1172,6 +1172,7 @@ Resume Timeline
     position: absolute;
     top: 40%;
     left: 50%;
+    text-align: center;
     margin-top: -20px;
     margin-left: -45px;
     opacity: 0;
