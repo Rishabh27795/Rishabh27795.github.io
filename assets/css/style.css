@@ -1102,12 +1102,58 @@ Resume Timeline
    border-bottom: 3px double #eee;
 }
 
+.portfolio-item {
+    padding-right: 5px;
+    padding-left: 5px;
+    min-height: 235px;
+}
+.portfolio-bg{
+    background: #fff;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #eee;
+}
+
+.portfolio-bg1{
+    background: black;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
 
 .portfolio {
     position: relative;
     overflow: hidden;
 }
 
+
+/* === Extra Section === */
+.extra-section {
+    background-color: #1a1e23;
+    color: #fff;
+}
+.extra-section {
+    background-color: #1a1e23;
+    color: #fff;
+}
+.extra-section .section-title{
+    color: #fff;
+    margin-bottom: 110px;
+}
+.extra-section .section-title h2{
+    color: #fff;
+}
+.extra-title {
+    width: 25%;
+    float: left;
+}
+.extra-title h3{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: -6px;
+    text-transform: capitalize;
+}
 
 /* Shuffle Filter*/
 #filter {
