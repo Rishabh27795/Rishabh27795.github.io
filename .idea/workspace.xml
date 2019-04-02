@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5dba8c-d4f8-4ff6-b908-1d9a812d2f6e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Rishabh_Modi_Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Rishabh_Modi_Resume.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="cd5dba8c-d4f8-4ff6-b908-1d9a812d2f6e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -149,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MockTube2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SER517-Team13/client" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,16 +187,15 @@
       <workItem from="1550264528913" duration="652000" />
       <workItem from="1550276228314" duration="1339000" />
       <workItem from="1553497833737" duration="1982000" />
-      <workItem from="1553838516313" duration="133000" />
+      <workItem from="1553838516313" duration="278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30140000" />
+    <option name="totallyTimeSpent" value="30285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18307997" />
       <window_info id="Structure" order="1" weight="0.25" />
